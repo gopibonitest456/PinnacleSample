@@ -1,0 +1,6 @@
+G:\Gopi\Doc\JTU\Sample-Refactoring-Project-3\Sample Refactoring Project\PinnacleSample\bin\Debug\PinnacleSample.dll
+G:\Gopi\Doc\JTU\Sample-Refactoring-Project-3\Sample Refactoring Project\PinnacleSample\bin\Debug\PinnacleSample.pdb
+G:\Gopi\Doc\JTU\Sample-Refactoring-Project-3\Sample Refactoring Project\PinnacleSample\obj\Debug\PinnacleSample.csproj.CoreCompileInputs.cache
+G:\Gopi\Doc\JTU\Sample-Refactoring-Project-3\Sample Refactoring Project\PinnacleSample\obj\Debug\PinnacleSample.dll
+G:\Gopi\Doc\JTU\Sample-Refactoring-Project-3\Sample Refactoring Project\PinnacleSample\obj\Debug\PinnacleSample.pdb
+G:\Gopi\Doc\JTU\Sample-Refactoring-Project-3\Sample Refactoring Project\PinnacleSample\obj\Debug\PinnacleSample.csprojAssemblyReference.cache

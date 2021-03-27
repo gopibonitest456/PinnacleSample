@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinnacleSample", "PinnacleSample\PinnacleSample.csproj", "{820CC7D7-0902-4E14-BC0C-268B1D86D29A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinnacleSample.Test", "PinnacleSample.Test\PinnacleSample.Test.csproj", "{37310FCC-8247-4FD4-BD41-578B9988DA99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820CC7D7-0902-4E14-BC0C-268B1D86D29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820CC7D7-0902-4E14-BC0C-268B1D86D29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820CC7D7-0902-4E14-BC0C-268B1D86D29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820CC7D7-0902-4E14-BC0C-268B1D86D29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37310FCC-8247-4FD4-BD41-578B9988DA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37310FCC-8247-4FD4-BD41-578B9988DA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37310FCC-8247-4FD4-BD41-578B9988DA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37310FCC-8247-4FD4-BD41-578B9988DA99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86E7EE1F-CE44-4DD7-9ED0-B3C10B3B9BB7}
+	EndGlobalSection
+EndGlobal
